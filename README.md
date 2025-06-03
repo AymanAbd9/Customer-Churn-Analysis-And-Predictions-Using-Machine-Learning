@@ -1,4 +1,4 @@
-# Customer churn analysis and predictions using machine learning
+# Tree-Based Models for Customer Churn Analysis
 
 This project implements and compares multiple tree-based machine learning models to predict customer churn for a telecommunications company. The analysis includes comprehensive exploratory data analysis, feature engineering, and model evaluation using various ensemble methods.
 
